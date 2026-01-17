@@ -1,4 +1,4 @@
-I'm Federico Geloso Grosso,
+I'm Federico,
 a passionate and versatile software developer with a solid foundation in Java and Android development, 
 complemented by proficiency in multiple programming languages including C#, Python, and C++. 
 I began coding at the age of 10, and since then, I've been driven by a curiosity to explore and create innovative solutions.
